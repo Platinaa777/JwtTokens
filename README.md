@@ -1,2 +1,2 @@
 # JwtTokens
-Minimal API with Authentication on JWT Tokens
+API with Authentication on JWT Tokens
