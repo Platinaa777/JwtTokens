@@ -1,2 +1,2 @@
 # JwtTokens
-API with Authentication on JWT Tokens
+Web API with Authentication on JWT Tokens
